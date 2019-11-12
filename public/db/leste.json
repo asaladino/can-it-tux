@@ -1,0 +1,105 @@
+{
+    "official": [
+        {
+            "id": "leste-A20-OLinuXIno-LIME2",
+            "name": "A20-OLinuXIno-LIME2",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/A20-OLinuXIno-LIME2",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-A33-TurboX-Twister",
+            "name": "A33-TurboX-Twister",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/A33-TurboX-Twister",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": "https://leste.maemo.org/images/thumb/1/14/A33_Twister_-_Leste_pre-alpha.jpg/250px-A33_Twister_-_Leste_pre-alpha.jpg"
+        },
+        {
+            "id": "leste-Motorola_Droid_4",
+            "name": "Motorola Droid 4",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Motorola_Droid_4",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": "https://leste.maemo.org/images/thumb/2/27/Motorola_Droid_4_-_Leste_pre-alpha.jpg/250px-Motorola_Droid_4_-_Leste_pre-alpha.jpg"
+        },
+        {
+            "id": "leste-Nexus_5",
+            "name": "Nexus 5",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Nexus_5",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-Nokia_N9",
+            "name": "Nokia N9",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Nokia_N9",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-Nokia_N900",
+            "name": "Nokia N900",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Nokia_N900",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": "https://leste.maemo.org/images/thumb/e/e2/Nokia_N900_-_Leste_pre-alpha.jpg/250px-Nokia_N900_-_Leste_pre-alpha.jpg"
+        },
+        {
+            "id": "leste-Nokia_N950",
+            "name": "Nokia N950",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Nokia_N950",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-Pine64_Anakin_Devkit",
+            "name": "Pine64 Anakin Devkit",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Pine64_Anakin_Devkit",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-Pine64_DontBeEvil_Devkit",
+            "name": "Pine64 DontBeEvil Devkit",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Pine64_DontBeEvil_Devkit",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "leste-Raspberry_Pi_2",
+            "name": "Raspberry Pi 2",
+            "text": "N/A",
+            "link": "https://leste.maemo.org/Raspberry_Pi_2",
+            "status": "N/A",
+            "date": "21/10/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        }
+    ],
+    "unofficial": []
+}

@@ -1,0 +1,115 @@
+{
+    "official": [
+        {
+            "id": "asteroid-anthias",
+            "name": "Asus Zenwatch 1",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/anthias/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/anthias.jpg"
+        },
+        {
+            "id": "asteroid-bass",
+            "name": "LG G Watch Urbane",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/bass/",
+            "status": "stable",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/bass.jpg"
+        },
+        {
+            "id": "asteroid-dory",
+            "name": "LG G Watch",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/dory/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/dory.jpg"
+        },
+        {
+            "id": "asteroid-harmony",
+            "name": "MTK6580 watches",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/harmony/",
+            "status": "stable",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/harmony.jpg"
+        },
+        {
+            "id": "asteroid-inharmony",
+            "name": "MTK6580 watches",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/inharmony/",
+            "status": "stable",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/inharmony.jpg"
+        },
+        {
+            "id": "asteroid-lenok",
+            "name": "LG G Watch R",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/lenok/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/lenok.jpg"
+        },
+        {
+            "id": "asteroid-mooneye",
+            "name": "Ticwatch E & S",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/mooneye/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/mooneye.jpg"
+        },
+        {
+            "id": "asteroid-sparrow",
+            "name": "Asus Zenwatch 2",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/sparrow/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/sparrow.jpg"
+        },
+        {
+            "id": "asteroid-swift",
+            "name": "Asus Zenwatch 3",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/swift/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/swift.jpg"
+        },
+        {
+            "id": "asteroid-tetra",
+            "name": "Sony Smartwatch 3",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/tetra/",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/tetra.jpg"
+        },
+        {
+            "id": "asteroid-wren",
+            "name": "Asus Zenwatch 2",
+            "text": "N/A",
+            "link": "https://asteroidos.org/install/wren/",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://asteroidos.org/public/img/wren.jpg"
+        }
+    ],
+    "unofficial": []
+}

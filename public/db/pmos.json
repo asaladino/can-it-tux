@@ -1,0 +1,1725 @@
+{
+    "official": [
+        {
+            "id": "pmos-amazon-bueller",
+            "name": "Amazon Fire TV",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Amazon_Fire_TV_(amazon-bueller)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/c8/Amazon-bueller.jpg/200px-Amazon-bueller.jpg"
+        },
+        {
+            "id": "pmos-amazon-thor (7-inch), amazon-apollo (8.9-inch)",
+            "name": "Amazon Kindle Fire HDX",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Amazon_Kindle_Fire_HDX",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/a2/Thor_pmos.jpg/200px-Thor_pmos.jpg"
+        },
+        {
+            "id": "pmos-asus-tf101",
+            "name": "ASUS Eee Pad Transformer",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ASUS_Eee_Pad_Transformer_(asus-tf101)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f3/ASUS_Eee_Pad_Transformer.png/200px-ASUS_Eee_Pad_Transformer.png"
+        },
+        {
+            "id": "pmos-asus-me176c",
+            "name": "ASUS MeMO Pad 7 (ME176C(X))",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ASUS_MeMO_Pad_7_(asus-me176c)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/79/Asus-me176cx.jpg/200px-Asus-me176cx.jpg"
+        },
+        {
+            "id": "pmos-asus-duma",
+            "name": "ASUS MeMO Pad FHD 10 (ME302KL)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ASUS_MeMO_Pad_FHD_10_(asus-duma)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/71/Asus_duma_weston.jpg/200px-Asus_duma_weston.jpg"
+        },
+        {
+            "id": "pmos-asus-z00t",
+            "name": "ASUS Zenfone 2 Laser / Zenfone 2 Selfie (1080p variant)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Asus_Zenfone_2_Laser/Selfie_(1080p)_(asus-z00t)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/70/Z00t.jpg/200px-Z00t.jpg"
+        },
+        {
+            "id": "pmos-asus-t00f, asus-t00j",
+            "name": "ASUS Zenfone 5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Asus_Zenfone_5_(asus-t00f)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/15/Asus-t00f-mate.jpg/200px-Asus-t00f-mate.jpg"
+        },
+        {
+            "id": "pmos-asus-z00vd",
+            "name": "ASUS Zenfone Go (MTK)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ASUS_Zenfone_Go_(asus-z00vd)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/54/ASUS_Z00VD.jpg/200px-ASUS_Z00VD.jpg"
+        },
+        {
+            "id": "pmos-bq-chaozu",
+            "name": "BQ Aquaris U",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Aquaris-U_(bq-chaozu)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/9e/Chaozu.png/200px-Chaozu.png"
+        },
+        {
+            "id": "pmos-chuwi-hi10plus",
+            "name": "CHUWI Hi10 Plus",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/CHUWI_Hi10_Plus_(chuwi-hi10plus)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e4/Chuwi_Hi10Plus_Weston.jpg/200px-Chuwi_Hi10Plus_Weston.jpg"
+        },
+        {
+            "id": "pmos-fairphone-fp1",
+            "name": "Fairphone Fairphone 1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Fairphone_1_(fairphone-fp1)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e7/1200px-Fairphone_1_-_front.jpg/200px-1200px-Fairphone_1_-_front.jpg"
+        },
+        {
+            "id": "pmos-fairphone-fp2",
+            "name": "Fairphone Fairphone 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Fairphone_2_(fairphone-fp2)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/7e/Fairphone_2.jpg/200px-Fairphone_2.jpg"
+        },
+        {
+            "id": "pmos-finepower-f1",
+            "name": "FinePower F1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Finepower_F1_(finepower-f1)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/0a/Finepower-f1.jpg/200px-Finepower-f1.jpg"
+        },
+        {
+            "id": "pmos-google-glass",
+            "name": "Foxconn Google Glass (Explorer Edition)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Glass_(Explorer_Edition)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/65/Google-glass-screenshot.png/200px-Google-glass-screenshot.png"
+        },
+        {
+            "id": "pmos-gp-peak",
+            "name": "Geeksphone Peak",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Geeksphone_Peak_(gp-peak)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/64/Gp-peak-weston.jpg/200px-Gp-peak-weston.jpg"
+        },
+        {
+            "id": "pmos-google-crosshatch",
+            "name": "Google Pixel 3 XL",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Pixel_3_XL_(google-crosshatch)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-asus-grouper",
+            "name": "Google (ASUS) Nexus 7 (2012)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_7_2012_(asus-grouper)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/56/Nexus_7_2012_weston.jpg/200px-Nexus_7_2012_weston.jpg"
+        },
+        {
+            "id": "pmos-asus-flo",
+            "name": "Google (ASUS) Nexus 7 (2013) WIFI",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_7_2013_(asus-flo)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/76/Asus_flo_hildon.jpg/200px-Asus_flo_hildon.jpg"
+        },
+        {
+            "id": "pmos-huawei-angler",
+            "name": "Google (Huawei) Nexus 6P",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_6P_(huawei-angler)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3a/Huawei_Nexus_6P.png/200px-Huawei_Nexus_6P.png"
+        },
+        {
+            "id": "pmos-lg-mako",
+            "name": "Google (LG) Nexus 4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_4_(lg-mako)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/de/LG_Nexus_4_Weston.png/200px-LG_Nexus_4_Weston.png"
+        },
+        {
+            "id": "pmos-motorola-shamu",
+            "name": "Google (Motorola) Nexus 6",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_6_(motorola-shamu)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-samsung-maguro",
+            "name": "Google (Samsung) Galaxy Nexus I9250",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Galaxy_Nexus_GSM_(samsung-maguro)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e9/Lawl_Galaxy_Nexus_Weston.jpg/200px-Lawl_Galaxy_Nexus_Weston.jpg"
+        },
+        {
+            "id": "pmos-samsung-manta",
+            "name": "Google (Samsung) Nexus 10",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_10_(samsung-manta)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/0f/Nexus-10.jpg/200px-Nexus-10.jpg"
+        },
+        {
+            "id": "pmos-hisense-m470bsa",
+            "name": "Hisense Sero 7 Pro",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Hisense_Sero_7_Pro_(hisense-m470bsa)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f8/M470bsa.jpg/200px-M470bsa.jpg"
+        },
+        {
+            "id": "pmos-htc-bravo",
+            "name": "HTC Desire",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Desire_(htc-bravo)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/a1/HTC_Desire_weston_demo.jpg/200px-HTC_Desire_weston_demo.jpg"
+        },
+        {
+            "id": "pmos-htc-a5ul",
+            "name": "HTC Desire 816",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Desire_816_single_SIM_(htc-a5ul)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/0d/Stock_a5.jpeg/200px-Stock_a5.jpeg"
+        },
+        {
+            "id": "pmos-htc-ace",
+            "name": "HTC Desire HD",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Desire_HD_(htc-ace)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/d9/Pmos-ace.jpg/200px-Pmos-ace.jpg"
+        },
+        {
+            "id": "pmos-htc-protou",
+            "name": "HTC Desire X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Desire_X_(htc-protou)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/81/Htc-protou.jpg/200px-Htc-protou.jpg"
+        },
+        {
+            "id": "pmos-htc-vision",
+            "name": "HTC Desire Z",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Desire_Z_(htc-vision)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/82/HTC_Desire_Z.jpg/200px-HTC_Desire_Z.jpg"
+        },
+        {
+            "id": "pmos-htc-vivo",
+            "name": "HTC Incredible S",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Incredible_S_(htc-vivo)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/1a/Stock_vivo.jpeg/200px-Stock_vivo.jpeg"
+        },
+        {
+            "id": "pmos-htc-flounder",
+            "name": "HTC Nexus 9 (Wifi)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_9_(htc-flounder)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/7c/Htc-flounder.jpg/200px-Htc-flounder.jpg"
+        },
+        {
+            "id": "pmos-htc-passion",
+            "name": "HTC Nexus One",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_Nexus_One_(htc-passion)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3f/Nexus_one_20180518.jpg/200px-Nexus_one_20180518.jpg"
+        },
+        {
+            "id": "pmos-htc-m7",
+            "name": "HTC One M7",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_M7_(htc-m7)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/08/Htc-m7.jpg/200px-Htc-m7.jpg"
+        },
+        {
+            "id": "pmos-htc-m8",
+            "name": "HTC One M8",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_M8_(htc-m8)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f7/Htc-m8.jpg/200px-Htc-m8.jpg"
+        },
+        {
+            "id": "pmos-htc-memul",
+            "name": "HTC One Mini 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_Mini_2_(htc-memul)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/54/Htc-memul.jpg/200px-Htc-memul.jpg"
+        },
+        {
+            "id": "pmos-htc-ville",
+            "name": "HTC One S",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_S_(htc-ville)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-htc-k2ul",
+            "name": "HTC One SV",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_SV_(htc-c520e)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/ad/20190605_194057.jpg/200px-20190605_194057.jpg"
+        },
+        {
+            "id": "pmos-htc-evita",
+            "name": "HTC One XL",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/HTC_One_XL_(htc-evita)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/25/Htc-evita.jpg/200px-Htc-evita.jpg"
+        },
+        {
+            "id": "pmos-huawei-y530",
+            "name": "Huawei Ascend Y530",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Huawei_Ascend_Y530_(huawei-y530)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8b/PostmarketOS_running_on_Huawei_Ascend_Y530.jpeg/200px-PostmarketOS_running_on_Huawei_Ascend_Y530.jpeg"
+        },
+        {
+            "id": "pmos-huawei-leland",
+            "name": "Huawei Honor 9 Lite",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Honor_9_Lite_(huawei-leland)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/62/Huawei-Leland-weston.jpg/200px-Huawei-Leland-weston.jpg"
+        },
+        {
+            "id": "pmos-huawei-cameron",
+            "name": "Huawei Mediapad M5 pro",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Huawei_Mediapad_M5_pro_(huawei-cameron)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b4/Huawei-Cameron.jpg/200px-Huawei-Cameron.jpg"
+        },
+        {
+            "id": "pmos-huawei-lua-u22",
+            "name": "Huawei Y3 II 3G",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Huawei_Y3_II_3G_(huawei-lua-u22)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/a5/Huawei-lua-u22.png/200px-Huawei-lua-u22.png"
+        },
+        {
+            "id": "pmos-infocus-flatfish",
+            "name": "InFocus New Tab F1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/InFocus_New_Tab_F1_(infocus-flatfish)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/89/Infocus-flatfish.jpg/200px-Infocus-flatfish.jpg"
+        },
+        {
+            "id": "pmos-jolla-sbj",
+            "name": "Jolla Jolla Phone",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Jolla_Phone_(jolla-sbj)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/22/Jolla_Phone.jpg/200px-Jolla_Phone.jpg"
+        },
+        {
+            "id": "pmos-leeco-s2",
+            "name": "LeEco Le 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LeEco_Le_2_(leeco-s2)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/6/64/S2.jpg"
+        },
+        {
+            "id": "pmos-lenovo-karate",
+            "name": "Lenovo K6 Power",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Lenovo_K6_Power_(lenovo-karate)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/d5/K6Power-weston-xterm.jpg/200px-K6Power-weston-xterm.jpg"
+        },
+        {
+            "id": "pmos-lg-dory",
+            "name": "LG G Watch",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_G_Watch_(lg-dory)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/80/LG_G_Watch_%28dory%29.jpg/200px-LG_G_Watch_%28dory%29.jpg"
+        },
+        {
+            "id": "pmos-lg-lenok",
+            "name": "LG G Watch R",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_G_Watch_R_(lg-lenok)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/ad/Lg-g-watch-r.jpg/200px-Lg-g-watch-r.jpg"
+        },
+        {
+            "id": "pmos-lg-d855",
+            "name": "LG G3 (Europe)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_G3_Europe_(lg-d855)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/30/LG_G3_weston_demo.jpg/200px-LG_G3_weston_demo.jpg"
+        },
+        {
+            "id": "pmos-lg-d722",
+            "name": "LG G3 Beat",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_G3_Beat_(lg-d722)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/30/Lg-d722.jpg/200px-Lg-d722.jpg"
+        },
+        {
+            "id": "pmos-lg-h815",
+            "name": "LG G4 (International/H815)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_G4_International_(lg-h815)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/4a/H815.jpg/200px-H815.jpg"
+        },
+        {
+            "id": "pmos-lg-d285",
+            "name": "LG L65 Dual SIM D285",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_L65_Dual_SIM_D285_(lg-d285)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/27/Lg-l65-d285.jpg/200px-Lg-l65-d285.jpg"
+        },
+        {
+            "id": "pmos-lg-w5",
+            "name": "LG LG L70",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_L70_(lg-w5)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-lg-hammerhead",
+            "name": "LG Nexus 5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_5_(lg-hammerhead)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/61/Nexus5-pmos-home.jpg/200px-Nexus5-pmos-home.jpg"
+        },
+        {
+            "id": "pmos-lg-bullhead",
+            "name": "LG Nexus 5X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Google_Nexus_5X(lg-bullhead)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e4/Lg-bullhead_mate.jpg/200px-Lg-bullhead_mate.jpg"
+        },
+        {
+            "id": "pmos-lg-e610",
+            "name": "LG Optimus L5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_Optimus_L5_(lg-e610)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/ae/Lg-e610.jpg/200px-Lg-e610.jpg"
+        },
+        {
+            "id": "pmos-lg-p700",
+            "name": "LG Optimus L7",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_Optimus_L7_(lg-p700)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/ea/Lg-p700.jpg/200px-Lg-p700.jpg"
+        },
+        {
+            "id": "pmos-lg-vee7e",
+            "name": "LG Optimus L7 II",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/LG_Optimus_L7_II_(lg-vee7e)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3a/Lg-vee7e.jpg/200px-Lg-vee7e.jpg"
+        },
+        {
+            "id": "pmos-meizu-turbo",
+            "name": "Meizu Pro 5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Meizu_Pro_5_(meizu-turbo)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-msft-950xl",
+            "name": "Microsoft Lumia 950 XL",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Microsoft_Lumia_950_XL_(msft-950xl)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/45/Lumia_950_XL_boots_Debian_with_Bluetooth_status.jpg/200px-Lumia_950_XL_boots_Debian_with_Bluetooth_status.jpg"
+        },
+        {
+            "id": "pmos-motorola-maserati",
+            "name": "Motorola Droid 4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Droid_4_(motorola-maserati)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e4/Droid4-android.jpg/200px-Droid4-android.jpg"
+        },
+        {
+            "id": "pmos-motorola-surnia",
+            "name": "Motorola Moto E (2nd Gen)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_E_(motorola-surnia)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b8/Motorola-surnia.jpg/200px-Motorola-surnia.jpg"
+        },
+        {
+            "id": "pmos-motorola-falcon",
+            "name": "Motorola Moto G (1st gen)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_G_2013_(motorola-falcon)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/c2/Moto-g-weston.jpeg/200px-Moto-g-weston.jpeg"
+        },
+        {
+            "id": "pmos-motorola-titan",
+            "name": "Motorola Moto G (2nd gen)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_G_2014_(motorola-titan)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/68/Moto_G_2014_Weston.png/200px-Moto_G_2014_Weston.png"
+        },
+        {
+            "id": "pmos-motorola-osprey",
+            "name": "Motorola Moto G 2015",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_G_2015_(motorola-osprey)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8e/Moto_G_2015.png/200px-Moto_G_2015.png"
+        },
+        {
+            "id": "pmos-motorola-peregrine",
+            "name": "Motorola Moto G 4G (2013)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_G_4G_2013_(motorola-peregrine)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8c/Peregrine-weston.jpg/200px-Peregrine-weston.jpg"
+        },
+        {
+            "id": "pmos-motorola-athene",
+            "name": "Motorola Moto G4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Moto_G4(motorola-athene)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/01/Moto_G4_pmOS_MATE.png/200px-Moto_G4_pmOS_MATE.png"
+        },
+        {
+            "id": "pmos-motorola-harpia",
+            "name": "Motorola Moto G4 Play",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_G4_Play_(motorola-harpia)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3b/Motorola_Moto_G4_Play.png/200px-Motorola_Moto_G4_Play.png"
+        },
+        {
+            "id": "pmos-motorola-cedric",
+            "name": "Motorola Moto G5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Moto_G5(motorola-cedric)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/74/Motorola-cedric.jpg/200px-Motorola-cedric.jpg"
+        },
+        {
+            "id": "pmos-motorola-potter",
+            "name": "Motorola Moto G5 Plus",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Moto_G5_Plus(motorola-potter)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e3/Potter.jpg/200px-Potter.jpg"
+        },
+        {
+            "id": "pmos-motorola-montana",
+            "name": "Motorola Moto G5s",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Moto_G5s_(motorola-montana)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-motorola-ghost",
+            "name": "Motorola Moto X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Moto_X_(motorola-ghost)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/ab/Ghost.png/200px-Ghost.png"
+        },
+        {
+            "id": "pmos-motorola-lux",
+            "name": "Motorola Moto X Play",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Motorola_Moto_X_Play(motorola-lux)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/4c/Motorola-lux.jpg/200px-Motorola-lux.jpg"
+        },
+        {
+            "id": "pmos-t2m-flame",
+            "name": "Mozilla (Alcatel/t2m) Flame",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Mozilla_Flame_(t2m-flame)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/86/Mozilla-flame.png/200px-Mozilla-flame.png"
+        },
+        {
+            "id": "pmos-nextbit-robin",
+            "name": "Nextbit Robin",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Nextbit_Robin_(nextbit-ether)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/98/Ether.jpg/200px-Ether.jpg"
+        },
+        {
+            "id": "pmos-nokia-frt",
+            "name": "Nokia 1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Nokia_1_(nokia-frt)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/84/Nokia-frt.jpg/200px-Nokia-frt.jpg"
+        },
+        {
+            "id": "pmos-nokia-rm885",
+            "name": "Nokia Lumia 720",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Nokia_Lumia_720_(nokia-rm885)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/4d/Rm885.jpg/200px-Rm885.jpg"
+        },
+        {
+            "id": "pmos-nokia-n9",
+            "name": "Nokia N9",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Nokia_N9_(nokia-n9)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/48/N9_tty_side.jpg/200px-N9_tty_side.jpg"
+        },
+        {
+            "id": "pmos-nokia-n900",
+            "name": "Nokia N900",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Nokia_N900_(nokia-n900)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/89/Nokia-rx51-cmus.jpg/200px-Nokia-rx51-cmus.jpg"
+        },
+        {
+            "id": "pmos-oneplus-cheeseburger",
+            "name": "Oneplus 5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/OnePlus_5_(oneplus-cheeseburger)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f0/Oneplus-cheeseburger.png/200px-Oneplus-cheeseburger.png"
+        },
+        {
+            "id": "pmos-oneplus-bacon",
+            "name": "OnePlus One",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/OnePlus_One_(oneplus-bacon)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/73/Bacon-weston.jpg/200px-Bacon-weston.jpg"
+        },
+        {
+            "id": "pmos-oneplus-oneplus2",
+            "name": "OnePlus OnePlus Two",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/OnePlus_Two_(oneplus-oneplus2)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/34/Oneplus2-weston.jpg/200px-Oneplus2-weston.jpg"
+        },
+        {
+            "id": "pmos-oneplus-onyx",
+            "name": "OnePlus X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/OnePlus_X_(oneplus-onyx)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/bb/Onyx-Weston.jpg/200px-Onyx-Weston.jpg"
+        },
+        {
+            "id": "pmos-oppo-find-7a",
+            "name": "OPPO Find 7a",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/OPPO_FIND_7a_(oppo-find-7a)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/be/Find7a.JPG/200px-Find7a.JPG"
+        },
+        {
+            "id": "pmos-ouya_1_1",
+            "name": "Ouya, Inc. Ouya",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Ouya_(ouya-ouya)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/56/Ouya-screenshot.jpg/200px-Ouya-screenshot.jpg"
+        },
+        {
+            "id": "pmos-pine64-a64lts",
+            "name": "PINE64 A64-LTS",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/PINE64_A64-LTS_(pine64-a64lts)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8e/Pine-a64lts-playbox.jpg/200px-Pine-a64lts-playbox.jpg"
+        },
+        {
+            "id": "pmos-pine64-dontbeevil",
+            "name": "PINE64 Don't be evil (devkit)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/PINE64_Don%27t_be_evil_devkit_(pine64-dontbeevil)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/1a/Pine-dontbeevil.jpg/200px-Pine-dontbeevil.jpg"
+        },
+        {
+            "id": "pmos-pine64-pinephone",
+            "name": "PINE64 PinePhone",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/PINE64_PinePhone_(pine64-pinephone)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/fd/Pinephone-final.jpeg/200px-Pinephone-final.jpeg"
+        },
+        {
+            "id": "pmos-pine64-pinetab",
+            "name": "PINE64 PineTab",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/PINE64_PineTab_(pine64-pinetab)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b7/Pine-pinetab.jpg/200px-Pine-pinetab.jpg"
+        },
+        {
+            "id": "pmos-planet-geminipda",
+            "name": "Planet Computers Gemini PDA",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Planet_Computers_Gemini_PDA_(planet-geminipda)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/ce/Hybris-gemini-pda.jpg/200px-Hybris-gemini-pda.jpg"
+        },
+        {
+            "id": "pmos-purism-librem5dev",
+            "name": "Purism Librem 5 Devkit",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Purism_Librem5_Devkit_(purism-librem5dev)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/84/Purism-librem5dev.jpg/200px-Purism-librem5dev.jpg"
+        },
+        {
+            "id": "pmos-samsung-i927",
+            "name": "Samsung Captivate Glide",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Captivate_Glide_(samsung-i927)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/83/I927_neofetch.jpg/200px-I927_neofetch.jpg"
+        },
+        {
+            "id": "pmos-samsung-a3ulte",
+            "name": "Samsung Galaxy A3 (2015)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A3_2015_(samsung-a3ulte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/87/Sm-a300fu.png/200px-Sm-a300fu.png"
+        },
+        {
+            "id": "pmos-samsung-a5ulte",
+            "name": "Samsung Galaxy A5 (2015)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A5_2015_(samsung-a5ulte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/ce/A5ulte_pmos.png/200px-A5ulte_pmos.png"
+        },
+        {
+            "id": "pmos-samsung-a5y17lte",
+            "name": "Samsung Galaxy A5 (2017)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A5_2017_(samsung-a5y17lte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f0/A5y17lte_pmos.jpg/200px-A5y17lte_pmos.jpg"
+        },
+        {
+            "id": "pmos-samsung-s5830",
+            "name": "Samsung Galaxy Ace",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Ace_(samsung-s5830)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/44/Samsung-s5830.jpg/200px-Samsung-s5830.jpg"
+        },
+        {
+            "id": "pmos-samsung-kylessopen",
+            "name": "Samsung Galaxy Ace II X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Ace_II_X_(samsung-kylessopen)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8c/Samsung-kylessopen_Matchbox_Home_Preview.png/200px-Samsung-kylessopen_Matchbox_Home_Preview.png"
+        },
+        {
+            "id": "pmos-samsung-zanin",
+            "name": "Samsung Galaxy Chat",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Chat_(samsung-zanin)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/5b/Samsung-zanin.jpg/200px-Samsung-zanin.jpg"
+        },
+        {
+            "id": "pmos-samsung-baffinlite",
+            "name": "Samsung Galaxy Grand Neo",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Grand_Neo_(samsung-baffinlite)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-samsung-j1mini3g",
+            "name": "Samsung Galaxy J1 mini",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_J1_mini_(samsung-j1mini3g)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-samsung-j3nxlte",
+            "name": "Samsung Galaxy J3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_J3_(samsung-j3nxlte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e3/Samsung-j3nxlte.jpg/200px-Samsung-j3nxlte.jpg"
+        },
+        {
+            "id": "pmos-samsung-s6500d, s6500, jena",
+            "name": "Samsung Galaxy Mini 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Mini_2_(samsung-s6500d)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3c/Samsung-s6500d.jpg/200px-Samsung-s6500d.jpg"
+        },
+        {
+            "id": "pmos-samsung-n8010 / p4notewifiww",
+            "name": "Samsung Galaxy Note 10.1 Wifi",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_10.1_WiFi_(samsung-n8010)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/48/Samsung-n8010.jpg/200px-Samsung-n8010.jpg"
+        },
+        {
+            "id": "pmos-samsung-hlte",
+            "name": "Samsung Galaxy Note 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_3_(samsung-hlte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-treltexx",
+            "name": "Samsung Galaxy Note 4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_4_(samsung-treltexx)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/ac/Treltexx.jpg/200px-Treltexx.jpg"
+        },
+        {
+            "id": "pmos-samsung-n5110",
+            "name": "Samsung Galaxy Note 8.0 (Wi-Fi)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_8.0_(Wi-Fi)_(samsung-n5110)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/19/Samsung-n5110.jpg/200px-Samsung-n5110.jpg"
+        },
+        {
+            "id": "pmos-i9000",
+            "name": "Samsung Galaxy S",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S_(samsung-i9000)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f6/Samsung-i9003-galaxy-s-sl-1.jpg/200px-Samsung-i9003-galaxy-s-sl-1.jpg"
+        },
+        {
+            "id": "pmos-samsung-i9070",
+            "name": "Samsung Galaxy S Advance",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S_Advance_(samsung-i9070)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e4/Samsung_Galaxy_S_Advance_weston_demo.jpg/200px-Samsung_Galaxy_S_Advance_weston_demo.jpg"
+        },
+        {
+            "id": "pmos-samsung-i9100, d710",
+            "name": "Samsung Galaxy S II",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SII_(samsung-i9100)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/cb/Samsung-i9100-weston.jpg/200px-Samsung-i9100-weston.jpg"
+        },
+        {
+            "id": "pmos-samsung-ariesve",
+            "name": "Samsung Galaxy S Plus",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S_Plus_(samsung-ariesve)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/cb/Samsung_ariesve_weston.jpg/200px-Samsung_ariesve_weston.jpg"
+        },
+        {
+            "id": "pmos-samsung-apexq",
+            "name": "Samsung Galaxy S Relay 4G",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S_Relay_4G_(samsung-apexq)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/fc/Apexq.jpg/200px-Apexq.jpg"
+        },
+        {
+            "id": "pmos-samsung-jflte",
+            "name": "Samsung Galaxy S4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S4_(samsung-jflte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/df/I9505.jpg/200px-I9505.jpg"
+        },
+        {
+            "id": "pmos-samsung-serranodsdd",
+            "name": "Samsung Galaxy S4 mini dual sim",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S4_Mini_dual_sim_(samsung-serranodsdd)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/ca/S4miniDuos.png/200px-S4miniDuos.png"
+        },
+        {
+            "id": "pmos-samsung-i9195 (serrano)",
+            "name": "Samsung Galaxy S4 Mini LTE",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S4_Mini_LTE_(samsung-i9195)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/fc/S4mini.jpg/200px-S4mini.jpg"
+        },
+        {
+            "id": "pmos-samsung-klte",
+            "name": "Samsung Galaxy S5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S5_(samsung-klte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/1b/Samsung-s5-weston.jpg/200px-Samsung-s5-weston.jpg"
+        },
+        {
+            "id": "pmos-samsung-kminilte",
+            "name": "Samsung Galaxy S5 mini",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S5_mini_(samsung-kminilte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3d/Samsung_Galaxy_S5_mini.png/200px-Samsung_Galaxy_S5_mini.png"
+        },
+        {
+            "id": "pmos-zerofltexx",
+            "name": "Samsung Galaxy S6",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S6_(samsung-zerofltexx)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-samsung-herolte",
+            "name": "Samsung Galaxy S7",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S7_(samsung-herolte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/4b/Samsung_galaxy_s7.png/200px-Samsung_galaxy_s7.png"
+        },
+        {
+            "id": "pmos-samsung-hero2lte",
+            "name": "Samsung Galaxy S7 edge",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S7_Edge_(samsung-hero2lte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/15/Samsung-hero2lte.jpg/200px-Samsung-hero2lte.jpg"
+        },
+        {
+            "id": "pmos-samsung-i747m",
+            "name": "Samsung Galaxy SIII (US version, i747m)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SIII_I747_(samsung-i747m)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/53/Samsung-galaxy-s-iii-att.jpg/200px-Samsung-galaxy-s-iii-att.jpg"
+        },
+        {
+            "id": "pmos-samsung-i9305",
+            "name": "Samsung Galaxy SIII LTE",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SIII_LTE_(samsung-i9305)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/5/50/Samsung-i9300-galaxy-s-iii-ofic.jpg"
+        },
+        {
+            "id": "pmos-samsung-golden",
+            "name": "Samsung Galaxy SIII mini",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SIII_mini_(samsung-i8190)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/0/04/Samsung-golden.jpg/200px-Samsung-golden.jpg"
+        },
+        {
+            "id": "pmos-samsung-goldenve",
+            "name": "Samsung Galaxy SIII mini Value Edition",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SIII_mini_Value_Edition_(samsung-i8200)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/55/Golden.png/200px-Golden.png"
+        },
+        {
+            "id": "pmos-samsung-i9003",
+            "name": "Samsung Galaxy SL",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_SL_(samsung-i9003)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/f6/Samsung-i9003-galaxy-s-sl-1.jpg/200px-Samsung-i9003-galaxy-s-sl-1.jpg"
+        },
+        {
+            "id": "pmos-samsung-p4wifi",
+            "name": "Samsung Galaxy Tab 10.1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_10.1%22_(samsung-p4wifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/92/P4wifi_infobox.png/200px-P4wifi_infobox.png"
+        },
+        {
+            "id": "pmos-samsung-espresso10",
+            "name": "Samsung Galaxy Tab 2 10.1\"",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_2_10.1%22_(3G_and_Wifi)_(samsung-espresso10)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/84/Espresso10weston.jpg/200px-Espresso10weston.jpg"
+        },
+        {
+            "id": "pmos-samsung-lt023g",
+            "name": "Samsung Galaxy Tab 3 7.0",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_3_7.0_(samsung-lt023g)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/2a/Samsung_Galaxy_Tab_3_7.0.png/200px-Samsung_Galaxy_Tab_3_7.0.png"
+        },
+        {
+            "id": "pmos-samsung-lt01wifi",
+            "name": "Samsung Galaxy Tab 3 8.0",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_3_8.0_(samsung-lt01wifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/de/Samsung-lt01wifi.jpg/200px-Samsung-lt01wifi.jpg"
+        },
+        {
+            "id": "pmos-samsung-matissewifi",
+            "name": "Samsung Galaxy Tab 4 10.1 (wifi) (SM-T530)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_4_10.1_(samsung-matissewifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/85/Samsung-matissewifi.jpg/200px-Samsung-matissewifi.jpg"
+        },
+        {
+            "id": "pmos-samsung-gt510wifi",
+            "name": "Samsung Galaxy Tab A 9.7 WiFi (2015)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_A_9.7_WiFi_(2015)_(samsung-gt510wifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b1/Gt510wifi_fixed.jpg/200px-Gt510wifi_fixed.jpg"
+        },
+        {
+            "id": "pmos-samsung-gts210velte",
+            "name": "Samsung Galaxy Tab S2 9.7 LTE",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_S2_9.7_LTE_(samsung-gts210velte)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8b/Samsung_gts210velte_Front.jpg/200px-Samsung_gts210velte_Front.jpg"
+        },
+        {
+            "id": "pmos-samsung-gts210vewifi",
+            "name": "Samsung Galaxy Tab S2 9.7 Wifi",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_S2_9.7_Wifi_(samsung-gts210vewifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e1/SM-T813_gts210vewifi_Front.jpg/200px-SM-T813_gts210vewifi_Front.jpg"
+        },
+        {
+            "id": "pmos-samsung-kylevess",
+            "name": "Samsung Galaxy trend lite",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Trend_lite_(s7390g)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-samsung-kylepro",
+            "name": "Samsung Galaxy Trend Plus",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Trend_Plus_(samsung-s7580)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/5e/Kylepro.jpg/200px-Kylepro.jpg"
+        },
+        {
+            "id": "pmos-samsung-royss",
+            "name": "Samsung Galaxy Young",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Young_(samsung-royss)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/6a/Samsung-royss-xfce.jpg/200px-Samsung-royss-xfce.jpg"
+        },
+        {
+            "id": "pmos-samsung-n7100",
+            "name": "Samsung Note II",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Galaxy_Note_II_(samsung-n7100)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b9/Samsung_Galaxy_Note_II.png/200px-Samsung_Galaxy_Note_II.png"
+        },
+        {
+            "id": "pmos-samsung-degaswifi",
+            "name": "Samsung Tab 4 7.0 Wi-Fi (SM-T230)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Galaxy_Tab_4_7.0_(samsung-degaswifi)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-sony-coconut",
+            "name": "Sony Live With Walkman",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Ericsson_Live_With_Walkman_(sony-coconut)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/7d/WT19I.jpg/200px-WT19I.jpg"
+        },
+        {
+            "id": "pmos-sony-taoshan",
+            "name": "Sony Xperia L",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_L_(sony-taoshan)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8d/Sony-Taoshan.jpg/200px-Sony-Taoshan.jpg"
+        },
+        {
+            "id": "pmos-sony-nicki",
+            "name": "Sony Xperia M",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_M_(sony-nicki)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b9/Sony-nicki.jpg/200px-Sony-nicki.jpg"
+        },
+        {
+            "id": "pmos-sony-tulip",
+            "name": "Sony Xperia M4 Aqua",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_M4_Aqua_(sony-tulip)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/7/7a/Sony-tulip.jpg/200px-Sony-tulip.jpg"
+        },
+        {
+            "id": "pmos-sony-seagull",
+            "name": "Sony Xperia T3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_T3_(sony-seagull)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/40/T3-weston.jpg/200px-T3-weston.jpg"
+        },
+        {
+            "id": "pmos-sony-suzu",
+            "name": "Sony Xperia X",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_X_(sony-suzu)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/5/5d/Sony-suzu.jpg/200px-Sony-suzu.jpg"
+        },
+        {
+            "id": "pmos-sony-yuga",
+            "name": "Sony Xperia Z",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z_(sony-yuga)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/4/43/Sony_yuga_weston.jpg/200px-Sony_yuga_weston.jpg"
+        },
+        {
+            "id": "pmos-sony-honami",
+            "name": "Sony Xperia Z1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z1_(sony-honami)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/96/Honami.jpg/200px-Honami.jpg"
+        },
+        {
+            "id": "pmos-sony-amami",
+            "name": "Sony Xperia Z1 Compact (Z1C)",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z1_Compact_(sony-amami)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/96/Sony-amami-xfce4-20180626-2.jpg/200px-Sony-amami-xfce4-20180626-2.jpg"
+        },
+        {
+            "id": "pmos-sony-sirius",
+            "name": "Sony Xperia Z2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z2_(sony-sirius)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/18/Sirius.png/200px-Sirius.png"
+        },
+        {
+            "id": "pmos-sony-castor-windy",
+            "name": "Sony Xperia Z2 Tablet",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z2_Tablet_(sony-castor-windy)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/dc/Sony_Xperia_Z2_Tablet.png/200px-Sony_Xperia_Z2_Tablet.png"
+        },
+        {
+            "id": "pmos-sony-aries",
+            "name": "Sony Xperia Z3 Compact",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z3C_(sony-aries)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/2c/Sony_Xperia_Z3C.jpg/200px-Sony_Xperia_Z3C.jpg"
+        },
+        {
+            "id": "pmos-sony-scorpion",
+            "name": "Sony Xperia Z3 Tablet Compact",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Xperia_Z3_Tablet_Compact_(sony-scorpion)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/29/PostmarketOS_on_SGP611.png/200px-PostmarketOS_on_SGP611.png"
+        },
+        {
+            "id": "pmos-sony-anzu",
+            "name": "Sony Ericsson Xperia Arc",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Ericsson_Xperia_Arc_(semc-anzu)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/cf/Sony_Ericsson_Xperia_Arc.png/200px-Sony_Ericsson_Xperia_Arc.png"
+        },
+        {
+            "id": "pmos-sony-smultron",
+            "name": "Sony Ericsson Xperia mini",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Sony_Ericsson_Xperia_mini_(semc-smultron)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/af/Semc-smultron.png/200px-Semc-smultron.png"
+        },
+        {
+            "id": "pmos-teclast-x80pro",
+            "name": "Teclast X80 Pro",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Teclast_X80_Pro_(teclast-x80pro)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/94/Teclast-x80pro.jpg/200px-Teclast-x80pro.jpg"
+        },
+        {
+            "id": "pmos-tokio-techbook",
+            "name": "Tokio Techbook",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Tokio_Techbook_(tokio-techbook)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/d0/Tokio-techbook.jpg/200px-Tokio-techbook.jpg"
+        },
+        {
+            "id": "pmos-surftab-wintron7.0",
+            "name": "TrekStor Surftab Wintron 7.0",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Trekstor_Surftab_Wintron_7.0_(surftab-wintron7.0)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b7/Surftab-wintron7.0.jpg/200px-Surftab-wintron7.0.jpg"
+        },
+        {
+            "id": "pmos-wiko-lenny3",
+            "name": "Wiko Lenny 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Wiko_Lenny_3_(wiko-lenny3)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/a/a3/Wiko-lenny3-1.jpg/200px-Wiko-lenny3-1.jpg"
+        },
+        {
+            "id": "pmos-wiko-ufeel",
+            "name": "Wiko U FEEL",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Wiko_U_FEEL_(wiko-ufeel)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/8/8b/Wiko-ufeel.png/200px-Wiko-ufeel.png"
+        },
+        {
+            "id": "pmos-wileyfox-crackling",
+            "name": "Wileyfox Swift",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Wileyfox_Swift_(wileyfox-crackling)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/9/9a/Wileyfox-crackling.jpg/200px-Wileyfox-crackling.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-aries",
+            "name": "Xiaomi Mi 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Mi_2_(xiaomi-aries)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/e/e1/Photo_2019-01-24_11-42-46.jpg/200px-Photo_2019-01-24_11-42-46.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-cancro",
+            "name": "Xiaomi Mi 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Mi_3_(xiaomi-cancro)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b2/Cancro.jpg/200px-Cancro.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-gemini",
+            "name": "Xiaomi Mi 5",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Mi_5_(xiaomi-gemini)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/3/3c/Xiaomi-gemini.jpg/200px-Xiaomi-gemini.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-tissot",
+            "name": "Xiaomi Mi A1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Mi_A1_(xiaomi-tissot)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/6/6f/Xiaomi-tissot.jpg/200px-Xiaomi-tissot.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-beryllium",
+            "name": "Xiaomi Pocophone F1",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-xiaomi-armani",
+            "name": "Xiaomi Redmi 1S",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_1S_(xiaomi-armani)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/2/2e/Armani.jpg/200px-Armani.jpg"
+        },
+        {
+            "id": "pmos-wingtech-wt88047",
+            "name": "Xiaomi Redmi 2",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_2_(wingtech-wt88047)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-xiaomi-ido",
+            "name": "Xiaomi RedMi 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_3_(xiaomi-ido)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        },
+        {
+            "id": "pmos-xiaomi-santoni",
+            "name": "Xiaomi Redmi 4x",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_4X_(xiaomi-santoni)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/1/16/Xiaomi-santoni.jpg/200px-Xiaomi-santoni.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-kenzo",
+            "name": "Xiaomi Redmi Note 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_3_(xiaomi-kenzo)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/d/d4/Xiaomi-kenzo.png/200px-Xiaomi-kenzo.png"
+        },
+        {
+            "id": "pmos-xiaomi-mido",
+            "name": "Xiaomi Redmi Note 4",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_4_(xiaomi-mido)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/c/c5/Mido.jpg/200px-Mido.jpg"
+        },
+        {
+            "id": "pmos-xiaomi-lavender",
+            "name": "Xiaomi Redmi Note 7",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_7_(xiaomi-lavender)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/f/fa/Xiaomi-lavender.jpg/200px-Xiaomi-lavender.jpg"
+        },
+        {
+            "id": "pmos-zte-p731a20",
+            "name": "ZTE Blade AF3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ZTE_Blade_AF3_(zte-p731a20)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": "https://wiki.postmarketos.org/images/thumb/b/b6/Zte_blade_af3_1.jpg/200px-Zte_blade_af3_1.jpg"
+        },
+        {
+            "id": "pmos-zte-kis3",
+            "name": "ZTE Kis 3",
+            "text": "N/A",
+            "link": "https://wiki.postmarketos.org/wiki/ZTE_Kis_3_(zte-kis3)",
+            "status": "alpha",
+            "date": "11/11/2019",
+            "maintainer": "N/A",
+            "picture": ""
+        }
+    ],
+    "unofficial": []
+}

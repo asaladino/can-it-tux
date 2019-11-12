@@ -1,0 +1,136 @@
+{
+    "official": [
+        {
+            "id": "ubp-5a8d827abf9f860bfb1574df",
+            "name": "OnePlus One",
+            "text": "## Elegant and powerful\n\nYou wish to be independent from Google and Apple, but don't want to quit on awesome modern hardware? You want to re-claim control over your smartphone and still enjoy a slick user experience? It's time for you to install Ubuntu Touch on your OnePlus One!\n\nPorting Ubuntu Touch to the Oneplus One was the first collaborative project for the UBports Community in 2015, and is one of the most popular Ubuntu Touch devices to this day. The device was chosen because of its open software stack and active development community.\n\nThe Oneplus One is among the most powerful UBports devices, and with the free and open-source mobile operating system Ubuntu Touch, it is a great alternative to Cyanogen Mod, LineageOS and Android.\n\nCamera zoom not working",
+            "link": "https://devices.ubuntu-touch.io/device/bacon",
+            "status": "stable",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://ubports.com/web/image/1452/OneplusOne.jpeg"
+        },
+        {
+            "id": "ubp-5a8d84ffd9850e0bf3a877ee",
+            "name": "Fairphone 2",
+            "text": "## The ethical pioneer\n\nUbuntu Touch on the Fairphone 2: a perfect combination of a secure and open source OS on a sustainable and ethical device. So not only is the Fairphone 2 a modular device, it also guarantees the users' privacy with Ubuntu Touch. No more 'forced services' that extract your personal and private data and spy on you.\n\nUbuntu Touch on your Fairphone is a free and open source mobile operating system and is a great alternative to iOS. Ubuntu Touch keeps your Fairphone 2 secure, because everything unsafe is blocked by default and the OS is virtually free of viruses and other malware that can extract your private data.\n\nYou can learn more about the Fairphone 2 and the story behind this device [here](https://ubports.com/devices/fairphone2-environment).\n\nThe Fairphone 2 is available on [fairphone.com](https://shop.fairphone.com/en/buy-fairphone2-2/).\n\nRandom reboots, selfies rotated by 180\u00b0",
+            "link": "https://devices.ubuntu-touch.io/device/FP2",
+            "status": "beta",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://ubports.com/web/image/1559/hanging-fairphone-main1.jpg"
+        },
+        {
+            "id": "ubp-5a8d8526bf9f860bfb1574e0",
+            "name": "Nexus 5",
+            "text": "## The Comfort of Brilliant Convergence\n\nAre you tired of being dependent on 'The Big Two' and their services and apps? Do you want to regain control over your personal and private data on your smartphone? Install Ubuntu Touch on your Nexus 5! It  keeps your Nexus 5 secure, because everything unsafe is blocked by default and the OS is virtually free of viruses and other malware that can extract your private data. \n\nThere are second-hand Nexus 5 devices for very reasonable prices available on [ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xnexus+5.TRS0&_nkw=nexus+5&_sacat=0) and [swappa](https://swappa.com/search?q=nexus+5). At the moment it is also the best device to experience convergence.\n\nWant to know more about convergence? Read more [here](https://ubports.com/devices/nexus5-convergence).\n\n",
+            "link": "https://devices.ubuntu-touch.io/device/hammerhead",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://ubports.com/web/image/1475/3xnexus5%20greyback.png"
+        },
+        {
+            "id": "ubp-5a8d8557bf9f860bfb1574e1",
+            "name": "Bq m10 FHD",
+            "text": "## The tablet to travel with\n\nThe Aquaris is a tablet that is both thin and light with a screen of 10''. It works smoothly with a recognizable Ubuntu interface. This tablet provides you a great workflow as a portable laptop. Imagine travelling by plane and working on your documents using LibreOffice.\n\n**Note**: Bq m10 HD devices that are sold with Android have a locked bootloader, so those need to be [manually unlocked by installing the manufacturers Ubuntu image](https://docs.ubports.com/en/latest/userguide/install.html#install-on-legacy-android-devices) before switching to UBports' release of Ubuntu Touch.\n\nAndroid-version needs to be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/frieza",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://ubports.com/web/image/1523/devices-bq-aquaris-main.png"
+        },
+        {
+            "id": "ubp-5a8d865ebf9f860bfb1574e2",
+            "name": "Bq E4.5",
+            "text": "## A solid entry-level smartphone\n\nThe Bq E4.5 was one of the first commercially available Ubuntu Touch devices!\n\n**Note**: Bq E4.5 devices that are sold with Android have a locked bootloader, so those need to be [manually unlocked by installing the manufacturers Ubuntu image](https://docs.ubports.com/en/latest/userguide/install.html#install-on-legacy-android-devices) before switching to UBports' release of Ubuntu Touch.\n\nAndroid-version needs to be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/krillin",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://elandroidelibre.elespanol.com/wp-content/uploads/2015/06/Aquaris-E5-HD-Ubuntu-Edition_7.png"
+        },
+        {
+            "id": "ubp-5a8d866ede096e0bfa6eb127",
+            "name": "Bq E5",
+            "text": "## A solid entry-level smartphone\n\nThe Bq E5 was one of the first commercially available Ubuntu Touch devices!\n\n**Note**: Bq E5 devices that are sold with Android have a locked bootloader, so those need to be [manually unlocked by installing the manufacturers Ubuntu image](https://docs.ubports.com/en/latest/userguide/install.html#install-on-legacy-android-devices) before switching to UBports' release of Ubuntu Touch.\n\nAndroid-version needs to be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/vegetahd",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://www.newsdayin.com/wp-content/uploads/2015/08/Aquaris-E5-Ubuntu-Edition.jpg"
+        },
+        {
+            "id": "ubp-5a8d86883e24950bf97c9d58",
+            "name": "Meizu MX 4",
+            "text": "## Pursuit of the ultimate perfection\n\nOn the top-end of the price-range of the previously available Ubuntu Touch devices, the Meizu MX 4 combines an elegant operating system with the hardware it deserves to run on.\n\n**Note**: Meizu MX 4 devices that are sold with Android have a locked bootloader, so installing UBports' version of Ubuntu Touch is only possible on devices that come with Ubuntu in the first place.\n\nAndroid-version can not be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/arale",
+            "status": "stable",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://4.bp.blogspot.com/-1X6u1vxxRlQ/VV45bb_6CpI/AAAAAAAAlMg/iQ62alhMxo0/s1600/u-t.png"
+        },
+        {
+            "id": "ubp-5a8d8698d9850e0bf3a877ef",
+            "name": "Meizu Pro 5",
+            "text": "## Pursuit of the ultimate perfection\n\nOn the top-end of the price-range of the previously available Ubuntu Touch devices, the Meizu Pro 5 combines an elegant operating system with the hardware it deserves to run on.\n\n**Note**: Meizu Pro 5 devices that are sold with Android have a locked bootloader, so installing UBports' version of Ubuntu Touch is only possible on devices that come with Ubuntu in the first place.\n\nAndroid-version can not be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/turbo",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://i0.wp.com/opensourceforu.com/wp-content/uploads/2016/07/Meizu-Pro-5-Ubuntu-Edition.jpg?resize=600%2C380"
+        },
+        {
+            "id": "ubp-5a8d86adbf9f860bfb1574e3",
+            "name": "Nexus 4",
+            "text": "## Your cheapest ticket to convergence-land\n\nThere are second-hand Nexus 4 devices for very reasonable prices available on [ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xnexus+4.TRS0&_nkw=nexus+4&_sacat=0) and [swappa](https://swappa.com/search?q=nexus+4). At the moment it is also the best device to experience convergence.\n\nWant to know more about convergence? Read more [here](https://ubports.com/devices/nexus5-convergence).\n\n",
+            "link": "https://devices.ubuntu-touch.io/device/mako",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://phandroid.s3.amazonaws.com/wp-content/uploads/2013/02/ubuntu-nexus-640x426.jpeg"
+        },
+        {
+            "id": "ubp-5a8d86e83e24950bf97c9d59",
+            "name": "Bq m10 HD",
+            "text": "## The tablet to travel with\n\nThe Aquaris is a tablet that is both thin and light with a screen of 10''. It works smoothly with a recognizable Ubuntu interface. This tablet provides you a great workflow as a portable laptop. Imagine travelling by plane and working on your documents using LibreOffice.\n\n**Note**: Bq m10 HD devices that are sold with Android have a locked bootloader, so those need to be [manually unlocked by installing the manufacturers Ubuntu image](https://docs.ubports.com/en/latest/userguide/install.html#install-on-legacy-android-devices) before switching to UBports' release of Ubuntu Touch.\n\nAndroid-version needs to be unlocked",
+            "link": "https://devices.ubuntu-touch.io/device/cooler",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "https://ubports.com/web/image/1523/devices-bq-aquaris-main.png"
+        },
+        {
+            "id": "ubp-5bec9718c315f11dae049e7e",
+            "name": "Nexus 7 2013 WiFi",
+            "text": "## The budget tablet\n\nThe Nexus 7 2013 WiFi is a great tablet to use Ubuntu Touch. It's often possible to find second-hand devices at very reasonable prices.\n\nPlease note that other Devices from the Nexus 7 line might not be supported.\n\nPlease note that other Devices from the Nexus 7 line might not be supported.",
+            "link": "https://devices.ubuntu-touch.io/device/flo",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "http://cloud.addictivetips.com/wp-content/uploads/2013/02/Ubuntu-Touch-Nexus-10-lockscreen.jpg"
+        },
+        {
+            "id": "ubp-5c7411a6a7a4fd1da0448d7e",
+            "name": "Nexus 7 2013 LTE",
+            "text": "## The budget tablet\n\nThe Nexus 7 2013 LTE is a great tablet to use Ubuntu Touch. It's often possible to find second-hand devices at very reasonable prices.\n\nPlease note that other Devices from the Nexus 7 line might not be supported.\n\nPlease note that other Devices from the Nexus 7 line might not be supported.",
+            "link": "https://devices.ubuntu-touch.io/device/deb",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "UBports Foundation",
+            "picture": "http://cloud.addictivetips.com/wp-content/uploads/2013/02/Ubuntu-Touch-Nexus-10-lockscreen.jpg"
+        }
+    ],
+    "unofficial": [
+        {
+            "id": "ubp-5a8d87e8d9850e0bf3a877f0",
+            "name": "Moto G (2014)D",
+            "text": "## Moto G (2014)",
+            "link": "https://devices.ubuntu-touch.io/device/titan",
+            "status": "N/A",
+            "date": "11/11/2019",
+            "maintainer": "walid",
+            "picture": ""
+        }
+    ]
+}
